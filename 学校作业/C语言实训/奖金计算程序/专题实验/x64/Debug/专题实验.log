@@ -1,0 +1,5 @@
+﻿  main.cpp
+b:\hausaufgaben\c\专题实验\专题实验\main.cpp(33): warning C4101: “len”: 未引用的局部变量
+b:\hausaufgaben\c\专题实验\专题实验\main.cpp(33): warning C4101: “j”: 未引用的局部变量
+b:\hausaufgaben\c\专题实验\专题实验\main.cpp(33): warning C4101: “i”: 未引用的局部变量
+  专题实验.vcxproj -> B:\hausaufgaben\C\专题实验\x64\Debug\专题实验.exe
